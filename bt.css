@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(64, 255, 255);
+}
+div.khung{
+    background-color: rgb(83, 238, 129);
+    width: 250px;
+    height: max-content;
+    padding: 15px;
+    display: block;
+    margin: 85px auto ;
+    text-align: center;
+    box-shadow: 15px;
+    border-radius: 20px;
+}
+.dulieu{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border-radius: 20px
+}
